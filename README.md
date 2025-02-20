@@ -6,6 +6,9 @@ NuIPX transforms intellectual property (IP) into liquid assets on XRPL, enabling
 ![NuIPX Image 2](https://ibb.co/PGzKpTtR)
 ![NuIPX Image 3](https://ibb.co/1Yg84Wbz)
 
+
+# [Project Presentation and Demo Video](https://www.canva.com/design/DAGflHSuDg4/BJaFwwoKkV3ipMlrV2U19g/edit?utm_content=DAGflHSuDg4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## NuIPX Provides a Platform Where:
 
 - **Instant Tokenization**:Users can swiftly tokenize their IP rights, allowing for easy trade and licensing directly on XRPL.

@@ -6,11 +6,12 @@ NuIPX transforms intellectual property (IP) into liquid assets on XRPL, enabling
 
 ![Screeshot](https://github.com/SamJeffrey8/nuipx/blob/master/ss4.png)
 
-![Screeshot](https://github.com/SamJeffrey8/nuipx/blob/master/ss5.png)
-
 ![Screeshot](https://github.com/SamJeffrey8/nuipx/blob/master/ss2.jpeg)
 
 ![Screeshot](https://github.com/SamJeffrey8/nuipx/blob/master/ss3.jpeg)
+
+![Screeshot](https://github.com/SamJeffrey8/nuipx/blob/master/ss5.jpeg)
+
 
 # [Project Presentation and Demo Video](https://www.canva.com/design/DAGflHSuDg4/BJaFwwoKkV3ipMlrV2U19g/edit?utm_content=DAGflHSuDg4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 

@@ -2,10 +2,11 @@
 
 NuIPX transforms intellectual property (IP) into liquid assets on XRPL, enabling instant licensing and data trustlines using RLUSD.
 
-![NuIPX Overview](https://ibb.co/3m8JCsnj)
-![NuIPX Image 2](https://ibb.co/PGzKpTtR)
-![NuIPX Image 3](https://ibb.co/1Yg84Wbz)
+![Screeshot](https://github.com/SamJeffrey8/nuipx/blob/master/ss1.jpeg)
 
+![Screeshot](https://github.com/SamJeffrey8/nuipx/blob/master/ss2.jpeg)
+
+![Screeshot](https://github.com/SamJeffrey8/nuipx/blob/master/ss3.jpeg)
 
 # [Project Presentation and Demo Video](https://www.canva.com/design/DAGflHSuDg4/BJaFwwoKkV3ipMlrV2U19g/edit?utm_content=DAGflHSuDg4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
